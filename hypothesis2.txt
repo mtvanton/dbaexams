@@ -1,0 +1,2 @@
+Hypothesis 2:
+Members who have received Incentive #2 - the two free admission tickets, ARE MORE LIKELY to renew their membership on time than members in the Control Group who do not receive any incentives.
