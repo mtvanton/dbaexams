@@ -1,0 +1,3 @@
+hypothesis 1:
+Members who have received Incentive #1 - the 20% discount  off the annual membership incentive, are more likely to renew their membership on time than members in the Control Group who do not receive any incentives.
+
